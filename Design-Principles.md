@@ -1,1 +1,0 @@
-[Click Here to Access the Platform Engineering Design Principles](/Design-Principles/Data-and-AI-Manifesto.md)
