@@ -1,1 +1,1 @@
-[Click Here](Design-Principles.md)
+[Click Here to Access the Design Principles](Design-Principles.md)
