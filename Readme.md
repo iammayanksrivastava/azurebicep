@@ -1,1 +1,7 @@
-[Click Here to Access the Design Principles](Design-Principles.md)
+# Azure Bicep 
+
+
+
+# High level Design for the data platform
+
+
