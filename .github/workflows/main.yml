@@ -18,7 +18,7 @@ jobs:
       uses: azure/arm-deploy@v1
       with:
         subscriptionId: ${{ secrets.AZURE_SUBSCRIPTION }}
-        resourceGroupName: ${{ secrets.AZURE_RG }}
+        resourceGroupName: "sandbox-data-platform"
         template: ./deploy_vnet.bicep
         parameters: storagePrefix=mystore
         failOnStdErr: false
