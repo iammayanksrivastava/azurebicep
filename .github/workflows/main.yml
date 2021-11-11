@@ -20,5 +20,4 @@ jobs:
         subscriptionId: ${{ secrets.AZURE_SUBSCRIPTION }}
         resourceGroupName: "sandbox-data-platform"
         template: ./modules/deploy_vnet.bicep
-        parameters: storagePrefix=mystore
         failOnStdErr: false
