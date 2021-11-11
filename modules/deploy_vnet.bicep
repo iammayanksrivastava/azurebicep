@@ -7,7 +7,7 @@ param subnetAddressPrefix1 string = '10.2.0.0/24'
 
 
 module virtualNetwork '../resources/core/vnet.bicep' = {
-  name: 'storageAccountName'
+  name: 'vnetName'
   params: {
     location: location
     vnetName: vnetName
